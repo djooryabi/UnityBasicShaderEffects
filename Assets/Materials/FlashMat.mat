@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FlickerMat
-  m_Shader: {fileID: 4800000, guid: a2a0fe57786b34a56ae23660a9e177f3, type: 3}
+  m_Name: FlashMat
+  m_Shader: {fileID: 4800000, guid: b156acd2141144734bb6d8330bba098e, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -60,7 +60,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _FlickerSpeed: 0.66
+    - _FlickerSpeed: 10.3
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
