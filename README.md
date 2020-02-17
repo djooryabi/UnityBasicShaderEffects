@@ -6,3 +6,4 @@ Videos:
 Dissolve Effect: https://youtu.be/Sh2r1u6qX0I </br>
 Flash Effect: https://youtu.be/q40uM_lpzgA </br>
 Flicker Effect: https://youtu.be/PGCKRgSJb6Q </br>
+Screen Tint Effect: https://youtu.be/aF9A9_xldsY </br>
