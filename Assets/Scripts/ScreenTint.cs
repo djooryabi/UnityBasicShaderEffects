@@ -1,5 +1,4 @@
-﻿
-// Attach me to a gameobject in the scene such as the main camera
+﻿// Attach me to a gameobject in the scene such as the main camera
 using UnityEngine;
 using System.Collections;
 
